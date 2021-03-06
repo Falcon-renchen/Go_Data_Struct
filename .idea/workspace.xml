@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d95f787a-d8d8-4d4d-bcf7-ac0a429aad89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../BookstoreSystem" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dTdbHSBDmj152Ih5JRlXoN22Yu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Link" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Container/conHeap" />
+      <recent name="$PROJECT_DIR$/Sparse" />
+      <recent name="$PROJECT_DIR$/Queue" />
+      <recent name="$PROJECT_DIR$/Link" />
+      <recent name="$PROJECT_DIR$/Binary_Tree" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build Struct/Stack/StackDemo2">
+    <configuration name="go build Struct/Sparse/SparseArrayDemo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Struct" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Sparse/SparseArrayDemo/main.go" />
+      <package value="Struct/Sparse/SparseArrayDemo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Struct/Stack/ExpStack/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Struct" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Stack/ExpStack/main/main.go" />
+      <package value="Struct/Stack/ExpStack/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Struct/Stack/StackDemo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Struct" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Stack/StackDemo/main.go" />
+      <package value="Struct/Stack/StackDemo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Struct/Stack/StackDemo2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Struct" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Stack/StackDemo2/main.go" />
+      <package value="Struct/Stack/StackDemo2" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Struct" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Stack/SingleStack/main/main.go" />
+      <package value="Struct" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Struct/Stack/StackDemo2" />
+        <item itemvalue="Go Build.go build Struct/Stack/StackDemo" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build Struct/Stack/ExpStack/main" />
+        <item itemvalue="Go Build.go build Struct/Sparse/SparseArrayDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom" timestamp="1615030013711">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1615030013711" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center" timestamp="1615030013710">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1615030013710" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left" timestamp="1615030013710">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1615030013710" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right" timestamp="1615030013710">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1615030013710" />
+  </component>
+</project>
